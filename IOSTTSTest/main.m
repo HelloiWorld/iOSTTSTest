@@ -2,7 +2,7 @@
 //  main.m
 //  IOSTTSTest
 //
-//  Created by PY on 14-9-5.
+//  Created by P on 14-9-5.
 //  Copyright (c) 2014年 Naturalsoft. All rights reserved.
 //
 
